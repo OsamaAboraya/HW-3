@@ -2,8 +2,10 @@
 
 **first step: creating a VPC**</h1>
 
-
-2-creating 2 subnets : 1-wordpress  2-db
+<h3>
+2-creating two subnets : 
+    1-wordpress  
+    2-sql-db </h3>
 
 ![alt text](https://github.com/OsamaAboraya/HW-3/blob/main/WhatsApp%20Image%202021-05-02%20at%2015.45.40.jpeg)
 
