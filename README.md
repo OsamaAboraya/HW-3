@@ -1,6 +1,6 @@
-"# HW3-vpc" <h1> tag
+"# HW3-vpc" <h1> 
 
-**first step: creating a VPC**
+**first step: creating a VPC**</h1>
 
 
 2-creating 2 subnets : 1-wordpress  2-db
