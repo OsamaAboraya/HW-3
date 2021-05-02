@@ -38,7 +38,7 @@
 ![alt text](https://github.com/OsamaAboraya/HW-3/blob/main/WhatsApp%20Image%202021-05-02%20at%2015.45.42%20(1).jpeg)
 
 
-<h3>*the tow instance conaines a docker-compose.yml file*</h3>
+<h3>*the two instance contains a docker-compose.yml file*</h3>
 
 <h2>How to Run:</h2>  we run the docker-compose on both instances by $ docker-compose up 
 
