@@ -9,7 +9,7 @@
 2-creating two subnets : 
     1-wordpress
     2-sql-db
- </h2>   
+    
 ![alt text](https://github.com/OsamaAboraya/HW-3/blob/main/WhatsApp%20Image%202021-05-02%20at%2015.45.40%20(1).jpeg)
     
 
