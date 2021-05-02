@@ -30,7 +30,10 @@
 
 ![alt text](https://github.com/OsamaAboraya/HW-3/blob/main/WhatsApp%20Image%202021-05-02%20at%2015.45.41.jpeg)
 
-final step: create two instance, first one for clinet-side(wordpress) , second one for dp(server)
+<h2>final step:</h2> create two instance
+        
+        first one for clinet-side(wordpress)
+        second one for dp(server)
 
 ![alt text](https://github.com/OsamaAboraya/HW-3/blob/main/WhatsApp%20Image%202021-05-02%20at%2015.45.42%20(1).jpeg)
 
