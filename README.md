@@ -1,6 +1,6 @@
-"# HW3-vpc" <h1> 
+<h1>*HW3*<h1>
 
-**first step: creating a VPC**</h1>
+<h2>**first step: creating a VPC**</h2>
 
 
 ![alt text](https://github.com/OsamaAboraya/HW-3/blob/main/WhatsApp%20Image%202021-05-02%20at%2015.45.40.jpeg)
